@@ -1,0 +1,12 @@
+-users can log in
+-users can only use REST calls for data that is theirs, this is verified by JWT token, by extracting the user and comparing.
+-users have rights to use reports, that are theirs.
+-users can only use reports they paid for.
+-When in built version, add this for root:
+<base href="http://localhost/evahub/frontend/www/index.html">
+-logs privacy, for the clients' logs
+
+
+
+
+

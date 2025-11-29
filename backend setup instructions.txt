@@ -1,0 +1,6 @@
+-To set up backend:
+1. Download files from git
+2. Go to backend directory
+3. source .venv/bin/activate
+4. pip3 install -r requirements.txt
+5. go-evahub-flask

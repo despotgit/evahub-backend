@@ -1,0 +1,361 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.9)  13 OCT 2023 23:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**latex_report.tex
+(./latex_report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2021/02/14 v1.3d Input encoding file
+))
+(/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2023/03/07 v2.0a lastpage: 2.09 or 2e? (HMM)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/03/07 v2.0a Decide which 2e lastpage version to use (H
+MM)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-03-07 v2.0a Refers to last page's name (HMM; JPG)
+) 
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen143
+\l@unhyphenated=\language87
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count195
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+)
+(./latex_report.aux)
+\openout1 = `latex_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+\big@size=\dimen144
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen145
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen146
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 38.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 38.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 38.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 38.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+8.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+
+Overfull \hbox (82.34566pt too wide) in paragraph at lines 82--86
+[] 
+ []
+
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
+ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
+
+]
+Package epstopdf Info: Source file: <Image_chart1.eps>
+(epstopdf)                    date: 2023-10-13 23:43:51
+(epstopdf)                    size: 55248 bytes
+(epstopdf)             Output file: <Image_chart1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:41:14
+(epstopdf)                    size: 16162 bytes
+(epstopdf)             Command: <repstopdf --outfile=Image_chart1-eps-converted
+-to.pdf Image_chart1.eps>
+(epstopdf)             \includegraphics on input line 128.
+runsystem(repstopdf --outfile=Image_chart1-eps-converted-to.pdf Image_chart1.ep
+s)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Image_chart1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:43:52
+(epstopdf)                    size: 16162 bytes.
+<Image_chart1-eps-converted-to.pdf, id=8, 361.35pt x 289.08pt>
+File: Image_chart1-eps-converted-to.pdf Graphic file (type pdf)
+<use Image_chart1-eps-converted-to.pdf>
+Package pdftex.def Info: Image_chart1-eps-converted-to.pdf  used on input line 
+128.
+(pdftex.def)             Requested size: 187.90308pt x 150.32245pt.
+ [2 <./Image_chart1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Image_chart2.eps>
+(epstopdf)                    date: 2023-10-13 23:43:51
+(epstopdf)                    size: 47482 bytes
+(epstopdf)             Output file: <Image_chart2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:41:14
+(epstopdf)                    size: 12916 bytes
+(epstopdf)             Command: <repstopdf --outfile=Image_chart2-eps-converted
+-to.pdf Image_chart2.eps>
+(epstopdf)             \includegraphics on input line 141.
+runsystem(repstopdf --outfile=Image_chart2-eps-converted-to.pdf Image_chart2.ep
+s)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <Image_chart2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:43:52
+(epstopdf)                    size: 12916 bytes.
+<Image_chart2-eps-converted-to.pdf, id=48, 361.35pt x 289.08pt>
+File: Image_chart2-eps-converted-to.pdf Graphic file (type pdf)
+<use Image_chart2-eps-converted-to.pdf>
+Package pdftex.def Info: Image_chart2-eps-converted-to.pdf  used on input line 
+141.
+(pdftex.def)             Requested size: 198.74312pt x 158.99448pt.
+ [3 <./Image_chart2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Image_fig1.eps>
+(epstopdf)                    date: 2023-10-13 23:43:50
+(epstopdf)                    size: 37905 bytes
+(epstopdf)             Output file: <Image_fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:41:14
+(epstopdf)                    size: 18979 bytes
+(epstopdf)             Command: <repstopdf --outfile=Image_fig1-eps-converted-t
+o.pdf Image_fig1.eps>
+(epstopdf)             \includegraphics on input line 203.
+runsystem(repstopdf --outfile=Image_fig1-eps-converted-to.pdf Image_fig1.eps)..
+.executed safely (allowed).
+
+Package epstopdf Info: Result file: <Image_fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:43:53
+(epstopdf)                    size: 18979 bytes.
+<Image_fig1-eps-converted-to.pdf, id=80, 361.35pt x 289.08pt>
+File: Image_fig1-eps-converted-to.pdf Graphic file (type pdf)
+<use Image_fig1-eps-converted-to.pdf>
+Package pdftex.def Info: Image_fig1-eps-converted-to.pdf  used on input line 20
+3.
+(pdftex.def)             Requested size: 216.81168pt x 173.44933pt.
+Package epstopdf Info: Source file: <Image_fig2.eps>
+(epstopdf)                    date: 2023-10-13 23:43:50
+(epstopdf)                    size: 26267 bytes
+(epstopdf)             Output file: <Image_fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:41:15
+(epstopdf)                    size: 14805 bytes
+(epstopdf)             Command: <repstopdf --outfile=Image_fig2-eps-converted-t
+o.pdf Image_fig2.eps>
+(epstopdf)             \includegraphics on input line 232.
+runsystem(repstopdf --outfile=Image_fig2-eps-converted-to.pdf Image_fig2.eps)..
+.executed safely (allowed).
+
+Package epstopdf Info: Result file: <Image_fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-10-13 23:43:53
+(epstopdf)                    size: 14805 bytes.
+<Image_fig2-eps-converted-to.pdf, id=81, 361.35pt x 289.08pt>
+File: Image_fig2-eps-converted-to.pdf Graphic file (type pdf)
+<use Image_fig2-eps-converted-to.pdf>
+Package pdftex.def Info: Image_fig2-eps-converted-to.pdf  used on input line 23
+2.
+(pdftex.def)             Requested size: 216.81168pt x 173.44933pt.
+ [4 <./Image_fig1-eps-converted-to.pdf>] [5 <./Image_fig2-eps-converted-to.pdf>
+] [6]
+
+enddocument/afterlastpage: lastpage setting LastPage.
+(./latex_report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3271 strings out of 476025
+ 56543 string characters out of 5790018
+ 1858388 words of memory out of 5000000
+ 23669 multiletter control sequences out of 15000+600000
+ 538535 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,62p,191b,290s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times
+/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pf
+b></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on latex_report.pdf (6 pages, 94637 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
