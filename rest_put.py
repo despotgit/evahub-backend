@@ -8,6 +8,12 @@ from common import getDocumentFileInfo
 
 rest_put = Blueprint("rest_put", __name__)
 
+# Log helper
+def log_debug(msg):
+    log_file = "/home/despot82/debug_upload.log"  # choose a writable path
+    with open(log_file, "a") as f:
+        f.write(msg + "\n")
+
 
 @rest_put.before_request
 @jwt_required(locations=["headers"])
