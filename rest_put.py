@@ -27,7 +27,9 @@ def uploadDocument(documentType, username):
             f.write(f"UPLOAD HIT: documentType={documentType}, username={username}\n")
     except Exception as e:
         print("Logging error:", e)
-        
+        with open("/home/despot82/debug_upload.log", "a") as f:
+            f.write(f"SOME SHIT HPND")
+
     log_debug(f"🔥 uploadDocument called for {documentType} / {username}")
 
     # Verify user
