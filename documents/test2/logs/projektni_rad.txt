@@ -1,2 +1,0 @@
--Uraditi model baterije koja sakuplja solarnu energiju, dakle solarni kolektor. Smisliti kako i sta modelirati to tacno, jer baterija je samo rezervoar, i nista specijalno. 
--Integrisati dalje TISAU projekat sa EVAHUB-om.
