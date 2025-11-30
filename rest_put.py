@@ -21,35 +21,33 @@ def before_request():
     "/document/document-type/<documentType>/username/<username>", methods=["PUT"]
 )
 def uploadDocument(documentType, username):
+    logging.debug(f"UploadDocument called: type={documentType}, user={username}")
+
     v = verifyUser(username)
     if not v["verified"]:
+        logging.warning(f"User verification failed for {username}")
         return finalizeResponse(v)
 
     f = request.files["file"]
+    logging.debug(f"Received file: {f.filename}")
 
-    secureFilename, userDir, uploadLocation = getDocumentFileInfo(
-        documentType, username, f.filename, True
-    )
+    secureFilename, userDir, uploadLocation = getDocumentFileInfo(documentType, username, f.filename, True)
+    logging.debug(f"secureFilename={secureFilename}, uploadLocation={uploadLocation}")
 
-    if os.path.isdir(userDir):
-        print("Directory exists already")
-    else:
+    if not os.path.isdir(userDir):
         os.mkdir(userDir)
-        # print("dir created")
+        logging.debug(f"Directory created: {userDir}")
+    else:
+        logging.debug(f"Directory already exists: {userDir}")
 
-    print("uploadLocation is:")
-    print(uploadLocation)
-
-    print("f is:")
-    print(f)
     f.save(uploadLocation)
+    logging.info(f"File saved to {uploadLocation}")
 
     addDbUserLog(secureFilename, username)
+    logging.info(f"DB log added for user {username}")
 
-    response = {
-        "authenticated": True,
-        "status": "ok",
-        "message": "File uploaded.",
-    }
+    response = {"authenticated": True, "status": "ok", "message": "File uploaded."}
+    logging.debug(f"Response prepared: {response}")
 
     return finalizeResponse(response)
+
